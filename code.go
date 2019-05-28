@@ -1,6 +1,6 @@
 package module3
 
-func Mul(i int) int {
-    return i*2
+func Div(i int) int {
+    return i/2
 }
 
